@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/btn-new-customer"
+    <item android:id="@+id/btn_new_customer"
           android:title="+ Costumer"></item>
-    <item android:id="@+id/btn-logout"
+    <item android:id="@+id/btn_logout"
           android:title="Logout"></item>
 </menu>
